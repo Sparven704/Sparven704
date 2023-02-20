@@ -4,7 +4,7 @@
 
 
 
-I've always been interested in computers since I was a kid and eversince I've had the option I've aimed my studies towards software development. And always explored the area on my free time.
+I've always been interested in computers since I was a kid and eversince I've had the option I've aimed my studies towards software development, and always explored the area on my free time.
 
 
 
