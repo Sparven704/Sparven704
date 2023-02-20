@@ -6,11 +6,10 @@ I've always been interested in computers since I was a kid and eversince I've ha
 
 # 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/arvid-ljungberg-9b7b13253/"><img align="left" src="https://raw.githubusercontent.com/Sparven704/Sparven704/main/images/linkedin-logo.svg" alt="Arv | LinkedIn" width="21px"/></a>
-<a href="discordapp.com/users/Arv#0154"><img align="left" src="https://user-images.githubusercontent.com/115452877/220129615-17828211-ae5b-41c9-ad0b-92229f5de84b.png" alt="Arv | Discord" width="21px"/></a>
-<a href="https://web.facebook.com/arvid.ljungberg"><img align="left" src="https://raw.githubusercontent.com/Sparven704/Sparven704/main/images/facebook.svg" alt="Arv | Facebook" width="21px"/></a>
+<a href="https://www.linkedin.com/in/arvid-ljungberg-9b7b13253/"><img align="left" src="https://user-images.githubusercontent.com/115452877/220130730-5dbd4c23-afcc-4a7a-9a81-b379b3a7b84f.png" alt="Arv | LinkedIn" width="41px"/></a>
+<a href="discordapp.com/users/Arv#0154"><img align="left" src="https://user-images.githubusercontent.com/115452877/220130700-11102641-92d0-4486-803d-1543c20637d8.png" alt="Arv | Discord" width="41px"/></a>
+<a href="https://web.facebook.com/arvid.ljungberg"><img align="left" src="https://user-images.githubusercontent.com/115452877/220130712-1055329f-f664-4eaa-af94-8be4157b9b33.png" alt="Arv | Facebook" width="41px"/></a>
 </br>
-
 
 # 🔭 I’m currently working on:
 
