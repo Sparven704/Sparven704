@@ -2,7 +2,11 @@
 
 # I'm a student currently studying to become a Fullstack .NET developer at ChasAcademy!
 
+
+
 I've always been interested in computers since I was a kid and eversince I've had the option I've aimed my studies towards software development. And always explored the area on my free time.
+
+
 
 # 🤝 Connect with me:
 
@@ -11,15 +15,23 @@ I've always been interested in computers since I was a kid and eversince I've ha
 <a href="https://web.facebook.com/arvid.ljungberg"><img align="left" src="https://user-images.githubusercontent.com/115452877/220130712-1055329f-f664-4eaa-af94-8be4157b9b33.png" alt="Arv | Facebook" width="41px"/></a>
 </br>
 
+
+
+
 # 🔭 I’m currently working on:
 
 - Ecommerce web application
+
+
+
 
 # 🌱 I’m currently furthering my knowledge in:
 
 - C#
 - MySQL
 - Postgres
+
+
 
 # 💼 Technical Skills:
 
