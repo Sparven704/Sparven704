@@ -21,7 +21,7 @@ Having a lot of fun exploring the boom of AI and what that encapsulates for prod
 
 # 🔭 I’m currently working on:
 
-- A AI charade game utelizing ChatGPT 4.0 and 3.5 turbo
+- Improving my skills
 
 
 
@@ -30,9 +30,9 @@ Having a lot of fun exploring the boom of AI and what that encapsulates for prod
 
 - LLM's
 - C#
-- Azure DevOps
-- React
-- Tailwind
+- Express.js
+- Vue 3
+- MongoDB
 
 
 
