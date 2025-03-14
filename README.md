@@ -48,6 +48,4 @@ Having a lot of fun exploring the boom of AI and what that encapsulates for prod
 
 # 📈 GitHub Stats:
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Sparven704)](https://github.com/Sparven704)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sparven704&layout=compact)](https://github.com/Sparven704)
