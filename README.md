@@ -21,7 +21,7 @@ Having a lot of fun exploring the boom of AI and what that encapsulates for prod
 
 # 🔭 I’m currently working on:
 
-- Improving my skills
+- Employee management system
 
 
 
@@ -30,10 +30,7 @@ Having a lot of fun exploring the boom of AI and what that encapsulates for prod
 
 - LLM's
 - C#
-- Express.js
-- Vue 3
-- MongoDB
-
+- .NET MAUI
 
 
 # 💼 Technical Skills:
