@@ -16,7 +16,8 @@ I have lots of fun trying out new languages and technologies to further my skill
 <a href="https://web.facebook.com/arvid.ljungberg"><img align="left" src="https://user-images.githubusercontent.com/115452877/220130712-1055329f-f664-4eaa-af94-8be4157b9b33.png" alt="Arv | Facebook" width="41px"/></a>
 
 </br>
-</n> 
+</br>
+
 # 📈 GitHub Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sparven704&layout=compact)](https://github.com/Sparven704)
