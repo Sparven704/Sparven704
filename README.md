@@ -14,8 +14,9 @@ I have lots of fun trying out new languages and technologies to further my skill
 <a href="https://www.linkedin.com/in/arvid-ljungberg-9b7b13253/"><img align="left" src="https://user-images.githubusercontent.com/115452877/220130730-5dbd4c23-afcc-4a7a-9a81-b379b3a7b84f.png" alt="Arv | LinkedIn" width="41px"/></a>
 <a href="discordapp.com/users/Arv#0154"><img align="left" src="https://user-images.githubusercontent.com/115452877/220130700-11102641-92d0-4486-803d-1543c20637d8.png" alt="Arv | Discord" width="41px"/></a>
 <a href="https://web.facebook.com/arvid.ljungberg"><img align="left" src="https://user-images.githubusercontent.com/115452877/220130712-1055329f-f664-4eaa-af94-8be4157b9b33.png" alt="Arv | Facebook" width="41px"/></a>
-</br>
 
+</br>
+</n> 
 # 📈 GitHub Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sparven704&layout=compact)](https://github.com/Sparven704)
